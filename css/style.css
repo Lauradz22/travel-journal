@@ -212,8 +212,8 @@ footer p {
   }
   .thumbnail {
     object-fit: cover;
-    width: 20px;
-    height: 20px;
+    width: 25px;
+    height: 25px;
   }
   header {
     padding: 25px 20px;
@@ -239,7 +239,7 @@ footer p {
     font-size: 16px;
   }
   .footer-links p {
-    font-size: 16px;
+    font-size: 14px;
   }
   .footer-links a {
     padding: 13px 18px;
