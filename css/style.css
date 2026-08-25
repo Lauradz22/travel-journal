@@ -212,8 +212,8 @@ footer p {
   }
   .thumbnail {
     object-fit: cover;
-    width: 70px;
-    height: 70px;
+    width: 20px;
+    height: 20px;
   }
   header {
     padding: 25px 20px;
@@ -235,7 +235,7 @@ footer p {
   .city-card h2 {
     font-size: 30px;
   }
-  .memories ul {
+  .memories li {
     font-size: 16px;
   }
   .footer-links p {
