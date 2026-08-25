@@ -211,8 +211,8 @@ footer p {
     font-size: 16px;
   }
   .thumbnail {
-    width: 80px important!;
-    height: 80px important!;
+    width: 100px !important;
+    height: 80px !important;
     object-fit: cover;
   }
   header {
