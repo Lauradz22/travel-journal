@@ -115,6 +115,9 @@ h2::after {
   object-position: center 56%;
   border: 2px solid rgb(110, 62, 79);
 }
+#coffee-picture {
+  object-position: center 70%;
+}
 .thumbnails {
   display: flex;
   gap: 20px;
@@ -204,6 +207,14 @@ footer p {
   main {
     padding: 0 50px;
   }
+  body {
+    font-size: 20px;
+  }
+  .thumbnail {
+    width: 120px;
+    height: 100px;
+    object-fit: cover;
+  }
   header {
     padding: 25px 20px;
   }
@@ -215,6 +226,12 @@ footer p {
     padding: 10px 14px;
     font-size: 18px;
   }
+  header p {
+    font-size: 22px;
+  }
+  .city-card h2 {
+    font-size: 30px;
+  }
   .footer-links p {
     font-size: 16px;
   }
@@ -223,7 +240,7 @@ footer p {
     font-size: 18px;
   }
   #back-to-top {
-    font-size: 28px;
-    padding: 12px 18px;
+    font-size: 22px;
+    padding: 10px 14px;
   }
 }
